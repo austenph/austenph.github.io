@@ -2628,6 +2628,7 @@
 
 		.main .container {
 			padding: 5em 2.5em 8em 2.5em ;
+            padding-top:20px;
 			background: rgba(255, 255, 255, 0.95);
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
@@ -2710,7 +2711,7 @@
 				}
 
 			#header header h1 {
-				font-size: 3em;
+				font-size: 4em;
 				line-height: 1.25em;
 				margin: 0;
 			}
@@ -2723,6 +2724,7 @@
 				color: #ffffff;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
+                font-size: 30px;
 			}
 
 		#header .container {
@@ -3007,6 +3009,7 @@
 
 			.main .container {
 				padding: 3em 1em 1em 1em ;
+                padding-top:20em;
 			}
 
 				.main .container .image.primary:first-child {
@@ -3029,5 +3032,8 @@
 					margin: 0;
 					padding: 0;
 				}
+                .photo{
+                    background-size:cover;
+                }
 
 	}
