@@ -1,3 +1,9 @@
+Hello! This is my repository for my professional porfolio. As I continue to learn more and broaden my skillset I wil continue to update and add things to my portfolio. Currently I am using Highlights- an HTML5 template to add styling.
+
+Please follow the URL link on my page to view the most current version of my portfolio.
+
+.....
+
 Highlights by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
